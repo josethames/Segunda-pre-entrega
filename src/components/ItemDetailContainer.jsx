@@ -1,12 +1,12 @@
 import {useEffect, useState } from "react";
 
 import Container from 'react-bootstrap/Container';
-import { ItemList } from "./ItemList";
+
 
 import data from "../data/products.json";
 
-export const ItemListContainer = () =>{
-     const [products, setProducts] = useState([])
+export const ItemDetailContainer = () =>{
+     const [product, setProducts] = useState([null])
 
      useEffect(() => {
       const get = new Promise((resolve, reject) => {
@@ -14,14 +14,14 @@ export const ItemListContainer = () =>{
       });
       
       get.then((data) => {
-          setProducts(data);
      });
      }, []);
 
+     if(!product) return <div>loading</div>;
 return (
 <Container className="mt-4">
-    <ItemList products={products} />
+   <h1> {product.name}</h1>
+   <img src={product.img} alt="s" />
     </Container>
 );
 };
-
