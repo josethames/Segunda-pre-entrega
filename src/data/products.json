@@ -1,23 +1,30 @@
 [
 	{
-		"name": "Car",
+		"name": "Estadio Mas Monumental",
 		"id": "1",
-		"category": "zapatos",
+		"category": "estadios",
 		"detail": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500",
-		"img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Cars_movie%27s_car.jpg"
+		"img": "https://www.cariverplate.com.ar/imagenes/contenidos/2024-03/128-dji_04201.jpg"
 	},
 	{
-		"name": "teletubbie",
+		"name": "Santiago Bernabeu",
 		"id": 2,
-		"category": "zapatillas",
+		"category": "estadios",
 		"detail": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500",
-		"img": "https://people.com/thmb/Bo8MTMyoT2JvQNg8fULYjTBEpow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(511x0:513x2)/lala-1024-589f1474607b4defb07769b3da4bbbb5.jpg"
+		"img": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt3bd061ee0ba3ee8b/60da862d0bc1b20fa6b557e0/03fcf24a23516ba45d2d34202168910121ca080b.jpg?auto=webp&format=pjpg&width=1080&quality=60"
 	},
 	{
-		"name": "milk",
+		"name": "Bayer Munchen",
 		"id": 3,
-		"category": "zapatillas",
+		"category": "equipos",
 		"detail": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500",
-		"img": "https://img.freepik.com/free-vector/isolated-milk-box-cartoon-style_1308-117384.jpg?w=360"
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/512px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png"
+	},
+	{
+		"name": "Manchester City",
+		"id": 4,
+		"category": "equipos",
+		"detail": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500",
+		"img": "https://c0.klipartz.com/pngpicture/287/555/gratis-png-manchester-city-f-c-manchester-city-w-f-c-final-de-la-copa-de-la-liga-premier-2011-premier-league-thumbnail.png"
 	}
 ]
